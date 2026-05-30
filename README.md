@@ -35,7 +35,8 @@ graph TD
 
 
 
-节点说明
+##节点说明
+
 Supervisor：解析用户任务，判断下一步应该调用哪个 Agent。
 BrowserAgent：负责联网搜索、浏览网页、提取摘要。
 MCPAgent：负责本地文件读写与工具调用。
